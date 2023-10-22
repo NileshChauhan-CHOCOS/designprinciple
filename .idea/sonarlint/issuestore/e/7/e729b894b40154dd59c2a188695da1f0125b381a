@@ -1,9 +1,0 @@
-
-u
-java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(â‰Ê÷øÿÿÿÿ8Õùµî0
-j
-java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(â‰Ê÷øÿÿÿÿ8®¨À·î0
-E
-java:S1185"(Remove this method to simply inherit it.(Îüş8Ê÷İáî0
-W
-java:S1161":Add the "@Override" annotation above this method signature(Îüş8Ê÷İáî0
