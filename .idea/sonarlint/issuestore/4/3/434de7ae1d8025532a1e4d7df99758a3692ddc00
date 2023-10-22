@@ -1,0 +1,7 @@
+
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯•‰8µï°±î0
+e
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¯•‰8·ï°±î0
+H
+java:S1068"&Remove this unused "iq" private field.(¬ıìüÿÿÿÿ8Ïòÿ±î0
